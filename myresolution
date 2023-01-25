@@ -1,1 +1,19 @@
 JKALS
+- Version control system :
+Sistem yang menyimpan & mengelola rekaman perubahan dari source code.
+- Git :
+Salah satu software yang melakukan vcs.
+- Github :
+Website/layanan untuk mengelola project git.
+
+==Istilah Git==
+Repo : Folder project kita.
+Commit : rekaman/snapshot padari repo kita
+Hash : Penandda unik pada sebuah commit.
+Checkout : Berpindah ke sebuah commit.
+Branch : Cabang bebas dari sebuah commit.
+Merge : Menggabungkan branch.
+Remote : Sumber yang memiliki repo.
+Clone : Mengambil repo dari remote.
+Push : Mengirimkan commit
+Pull : Mengabil commit.
